@@ -3,7 +3,7 @@
     font-family: 'Patrick Hand', cursive;
 }
 body{
-    background: url(minecraft-bees.jpg)no-repeat;
+    background: url(/minecraft-bees.jpg)no-repeat;
     background-size: 100%;
 }
 .campos{
